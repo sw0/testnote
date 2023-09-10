@@ -9,3 +9,4 @@
 ```shell:./scripts/install-docker.sh
 ```
 
+looks it does not work, click [install-docker.sh](scripts/install-docker.sh) to view the file.
