@@ -1,6 +1,6 @@
 
 
-[Title](skills/readme.md)
+[skills/abc.md](skills/abc.md)
 
 ![sdssdfsdf](.assets/readme/image.png)
 
